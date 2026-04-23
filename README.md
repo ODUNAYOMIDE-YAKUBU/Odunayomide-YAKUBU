@@ -16,7 +16,7 @@ From **predictive modeling** to **explainable AI**, I help businesses make smart
 
 <br/>
 
-**[📊 Featured Projects](#-featured-projects)** &nbsp;•&nbsp; **[🛠️ Tech Stack](#%EF%B8%8F-tech-stack)** &nbsp;•&nbsp; **[🚀 Quick Start](#-quick-start)** &nbsp;•&nbsp; **[📬 Hire Me](#-hire-me)**
+**[📊 Featured Projects](#-featured-projects)** &nbsp;•&nbsp; **[🛠️ Tech Stack](#%EF%B8%8F-tech-stack)** &nbsp;•&nbsp;•&nbsp; **[📬 Hire Me](#-hire-me)**
 
 </div>
 
@@ -62,7 +62,7 @@ Built an **XGBoost-based predictive model** with **SHAP explainability** to prov
 - Supports data-driven healthcare decisions
 
 ### 🔗 Links
-- Live App: [Add your Streamlit link]
+- Live App: [[Cardio Ai](https://cardioai--heart-risk-intelligent.streamlit.app/)]
 - GitHub: [Add repo link]
 
 ---
@@ -121,11 +121,3 @@ I’m open to:
 📩 Let’s work together on solving real-world problems using data.
 
 ---
-
-# 🚀 Quick Start
-
-```bash
-git clone https://github.com/ODUNAYOMIDE-YAKUBU/yourrepo.git
-cd yourrepo
-pip install -r requirements.txt
-streamlit run app.py
